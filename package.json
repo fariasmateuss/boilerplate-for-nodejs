@@ -17,8 +17,8 @@
   },
   "lint-staged": {
     "./src/**/*.{ts,js}": [
-      "yarn lint",
-      "yarn prettier"
+      "pnpm lint",
+      "pnpm prettier"
     ]
   },
   "devDependencies": {
